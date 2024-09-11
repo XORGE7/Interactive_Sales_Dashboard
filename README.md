@@ -55,7 +55,7 @@ Dashboard Interactive Open:
       <h3 align="center">Jorge Carrillo Negrete</h3>
       <div align="center">
         <a href="https://www.linkedin.com/in/jorge-carrillo-negrete/" target="_blank">
-          <img src="https://www.linkedin.com/in/jorge-carrillo-negrete/" width="400" alt="Jorge Carrillo"> 
+          <img src="https://media.licdn.com/dms/image/v2/D4E03AQFLI9NqfvlqCA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718286918971?e=1731542400&v=beta&t=Q1b6gpL7uGvl6xyV5oIggwYgN28lfBHaEnmjjp-Fctc" width="400" alt="Jorge Carrillo"> 
         </a>
         <p>
            <a href="https://www.linkedin.com/in/jorge-carrillo-negrete/" target="_blank">
